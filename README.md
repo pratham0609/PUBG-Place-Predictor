@@ -7,3 +7,5 @@ This model predicts players' finishing placement based on their final stats, on 
 
 Data has a large number of anonymized PUBG game stats, formatted so that each row contains one player's post-game stats. It comes from matches of all types: solos, duos, squads, and custom; there is no guarantee of there being 100 players per match, nor at most 4 player per group.
 This model which predicts players' finishing placement based on their final stats, on a scale from 1 (first place) to 0 (last place).
+
+A ppt has been uploaded documenting all the information about preprocessing, models used and accuracy scores across models.
